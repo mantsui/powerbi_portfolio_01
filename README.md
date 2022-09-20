@@ -1,4 +1,4 @@
-# @icheft's NTU Homepage
+# Power BI Portfolio
 (might as well be the simple one-page site I am going to use in the future ❤)
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/4e6d221b-aed0-41ca-adb9-aab8ab2147b0/deploy-status)](https://app.netlify.com/sites/icheftatntu/deploys) [![GitHub](https://img.shields.io/github/license/icheft/ntu-homepage)](https://github.com/icheft/ntu-homepage/blob/master/LICENSE) ![Maintenance](https://img.shields.io/maintenance/yes/2020?color=orange) [![Website](https://img.shields.io/website?down_message=offline&up_color=lime&url=http%3A%2F%2Fhomepage.ntu.edu.tw%2F~b07705031%2F)](http://homepage.ntu.edu.tw/~b07705031/) 
