@@ -82,7 +82,7 @@ body {
   margin-top: 5em;
   margin-left: auto;
   margin-right: auto;
-  width: 670px;
+  width: 1000px; /*670px*/
   position: relative;
 }
 
